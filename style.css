@@ -1,10 +1,52 @@
-/*
 body {
     text-align: center;
 }
-*/
 
-img {
-    width: 100px;
+#Logo {
+
 }
 
+img {
+    border: 2px;
+    border-radius: 2px solid;
+}
+
+#Sottotitolo {
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),            
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    margin-top: 2px;
+    margin-bottom: auto;
+    padding: 1px;
+}
+
+h1 {
+    margin: 50px;
+}
+
+.Paragrafo {
+    color:rgba(137, 132, 132, 0.685);
+    border-left: 1px;
+}
+
+.Paragrafo2 {
+    color: rgb(243, 92, 37);
+    margin: 48px;
+}
+
+.ParagrafoLinea {
+    border-top: 1px solid aqua;
+}
+
+#Lista1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Lista2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Blocco {
+    color: rgb(0, 0, 0);
+    width: 2px;
+    height: 2px;
+}
